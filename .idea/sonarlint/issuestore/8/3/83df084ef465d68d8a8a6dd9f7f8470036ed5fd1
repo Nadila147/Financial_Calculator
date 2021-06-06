@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+_
+java:S2184"BCast one of the operands of this division operation to a "double".(‰­ÙÀ8ˆŠ·¬².
+J
+java:S1481"-Remove this unused "interest" local variable.(½îÛÅ8ã­¹«².
+s
+java:S1128"VRemove this unused import 'com.sun.xml.internal.fastinfoset.stax.events.CommentEvent'.(æ±“Ü8Ÿ¯òž´.
+O
+java:S1481
+"2Remove this unused "totalInterest" local variable.(ŠÅ„ð8ã­¹«².
+M
+java:S1481"1Remove this unused "endPrincipal" local variable.(Ø‘£I8ã­¹«².
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(æ±“Ü8Ÿ¯òž´.

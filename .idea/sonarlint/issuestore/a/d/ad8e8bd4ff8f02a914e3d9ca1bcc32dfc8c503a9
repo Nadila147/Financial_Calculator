@@ -1,0 +1,124 @@
+
+K
+java:S1604ç"(Make this anonymous inner class a lambda(ì›˜¹ùÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604º"(Make this anonymous inner class a lambda(éŸ¤Ú8Ÿî×˜´.
+F
+java:S1604"(Make this anonymous inner class a lambda(ı®’ì8Ÿî×˜´.
+F
+java:S1604Û"(Make this anonymous inner class a lambda(Ï°¤‰8„‡ÏË³.
+F
+java:S1604ô"(Make this anonymous inner class a lambda(³“«°8Ÿî×˜´.
+s	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ä¹Àıÿÿÿÿ8„‡ÏË³.
+E
+java:S1604±"(Make this anonymous inner class a lambda(âçÙH8Ÿî×˜´.
+K
+java:S1604¼"(Make this anonymous inner class a lambda(‡¦«µıÿÿÿÿ8„‡ÏË³.
+K
+java:S1604«"(Make this anonymous inner class a lambda(š¨‡Šøÿÿÿÿ8Ÿî×˜´.
+K
+java:S1604è
+"(Make this anonymous inner class a lambda(àÉ§Îøÿÿÿÿ8„‡ÏË³.
+K
+java:S1604’"(Make this anonymous inner class a lambda(ÆõØÇùÿÿÿÿ8„‡ÏË³.
+E
+java:S1604F"(Make this anonymous inner class a lambda(òÛ¢ô8€şíÇ³.
+v
+java:S1104"TMake txtInput a static final constant or non-public and provide accessors if needed.(ÅåÊàùÿÿÿÿ8§Á´ù².
+F
+java:S1604à"(Make this anonymous inner class a lambda(Å÷û¬8Ÿî×˜´.
+K
+java:S1604­"(Make this anonymous inner class a lambda(‹…âğÿÿÿÿÿ8Ÿî×˜´.
+K
+java:S1604É"(Make this anonymous inner class a lambda(îƒ‹Åúÿÿÿÿ8Ÿî×˜´.
+J
+java:S16047"(Make this anonymous inner class a lambda(ªôÄ’úÿÿÿÿ8€şíÇ³.
+F
+java:S1604°
+"(Make this anonymous inner class a lambda(ÁÿÅ¶8„‡ÏË³.
+K
+java:S1604ï"(Make this anonymous inner class a lambda(ÿÇë²ûÿÿÿÿ8Ÿî×˜´.
+s	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±”öıÿÿÿÿ8„‡ÏË³.
+K
+java:S1604À"(Make this anonymous inner class a lambda(Ê¤Òæÿÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604ş"(Make this anonymous inner class a lambda(¥âˆµ8Ÿî×˜´.
+F
+java:S1604 "(Make this anonymous inner class a lambda(ø‚Îæ8„‡ÏË³.
+F
+java:S1604æ"(Make this anonymous inner class a lambda(ˆàì8Ÿî×˜´.
+K
+java:S1604Ñ"(Make this anonymous inner class a lambda(ğœ§¡şÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604ï"(Make this anonymous inner class a lambda(ƒÓã¸8Ÿî×˜´.
+J
+java:S1604("(Make this anonymous inner class a lambda(Öç¾¨úÿÿÿÿ8€şíÇ³.
+K
+java:S1604"(Make this anonymous inner class a lambda(…óäîÿÿÿÿÿ8Ÿî×˜´.
+E
+java:S1604Ê"(Make this anonymous inner class a lambda(Íù¤8„‡ÏË³.
+m	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ˆô8„‡ÏË³.
+E
+java:S1604U"(Make this anonymous inner class a lambda(Ô‹õÔ8€şíÇ³.
+K
+java:S1604Ø"(Make this anonymous inner class a lambda(Àî×úÿÿÿÿ8Ÿî×˜´.
+K
+java:S1604	"(Make this anonymous inner class a lambda(ıÁù±úÿÿÿÿ8Ÿî×˜´.
+K
+java:S1604Ş"(Make this anonymous inner class a lambda(ö¥Íıÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604ÿ	"(Make this anonymous inner class a lambda(ãõµ•8å“Ì³.
+K
+java:S1604œ"(Make this anonymous inner class a lambda(ô¼ïúÿÿÿÿ8Ÿî×˜´.
+K
+java:S1604¢
+"(Make this anonymous inner class a lambda(°‡û…úÿÿÿÿ8„‡ÏË³.
+K
+java:S1604Û"(Make this anonymous inner class a lambda(¡Û“Æùÿÿÿÿ8Ÿî×˜´.
+K
+java:S1604Ú
+"(Make this anonymous inner class a lambda(Œ‰°Öøÿÿÿÿ8„‡ÏË³.
+E
+java:S1604¾
+"(Make this anonymous inner class a lambda(‡¾°8„‡ÏË³.
+F
+java:S1604ö
+"(Make this anonymous inner class a lambda(ä¦™8„‡ÏË³.
+?
+java:S1643Ï"Use a StringBuilder instead.(Õ½’óıÿÿÿÿ8„‡ÏË³.
+F
+java:S1604ƒ"(Make this anonymous inner class a lambda(‹Şğ•8Ÿî×˜´.
+K
+java:S1940È"(Use the opposite operator ("<") instead.(äùü”ÿÿÿÿÿ8„‡ÏË³.
+E
+java:S1604d"(Make this anonymous inner class a lambda(öİú‘8ÛşÈ³.
+K
+java:S1604®"(Make this anonymous inner class a lambda(ÍÆ¢¦úÿÿÿÿ8„‡ÏË³.
+K
+java:S1604Ò"(Make this anonymous inner class a lambda(ÎÆÄ«ıÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604”
+"(Make this anonymous inner class a lambda(“çÉş8„‡ÏË³.
+K
+java:S1604Ì
+"(Make this anonymous inner class a lambda(ş³’Ğûÿÿÿÿ8„‡ÏË³.
+K
+java:S1604’"(Make this anonymous inner class a lambda(‚àõÀøÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604Ï"(Make this anonymous inner class a lambda(Ÿ¯şô8Ÿî×˜´.
+K
+java:S1604Ì"(Make this anonymous inner class a lambda(Ö÷ß´øÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604½"(Make this anonymous inner class a lambda(Ïà•²8Ÿî×˜´.
+F
+java:S1604œ	"(Make this anonymous inner class a lambda(¬ËÅ8Ÿî×˜´.
+P
+java:S1444".Make this "public static txtInput" field final(ÅåÊàùÿÿÿÿ8§Á´ù².
+s	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ùØÛşÿÿÿÿ8„‡ÏË³.
+K
+java:S1604€"(Make this anonymous inner class a lambda(¸ôöÿÿÿÿÿ8Ÿî×˜´.
+F
+java:S1604„"(Make this anonymous inner class a lambda(šÁ±Î8„‡ÏË³.
+k	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş³’²8„‡ÏË³.
+F
+java:S1604à"(Make this anonymous inner class a lambda(†ïä8Ÿî×˜´.
